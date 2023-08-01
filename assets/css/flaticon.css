@@ -1,0 +1,59 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 30/05/2020 17:16
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+       
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-right:before { content: "\f100"; }
+.flaticon-search:before { content: "\f101"; }
+.flaticon-right-arrow:before { content: "\f102"; }
+.flaticon-tick:before { content: "\f103"; }
+.flaticon-right-arrow-1:before { content: "\f104"; }
+.flaticon-backward:before { content: "\f105"; }
+.flaticon-clock:before { content: "\f106"; }
+.flaticon-star:before { content: "\f107"; }
+.flaticon-null-5:before { content: "\f108"; }
+.flaticon-discussion:before { content: "\f109"; }
+.flaticon-call:before { content: "\f10a"; }
+.flaticon-arrow:before { content: "\f10b"; }
+.flaticon-zoom-in:before { content: "\f10c"; }
+.flaticon-share:before { content: "\f10d"; }
+.flaticon-remove:before { content: "\f10e"; }
+.flaticon-signs:before { content: "\f10f"; }
+.flaticon-ui:before { content: "\f110"; }
+.flaticon-arrows:before { content: "\f111"; }
+.flaticon-add:before { content: "\f112"; }
+.flaticon-angle-arrow-pointing-to-right:before { content: "\f113"; }
+.flaticon-null:before { content: "\f114"; }
+.flaticon-null-1:before { content: "\f115"; }
+.flaticon-null-2:before { content: "\f116"; }
+.flaticon-null-3:before { content: "\f117"; }
+.flaticon-null-4:before { content: "\f118"; }
+.flaticon-wine:before { content: "\f119"; }
+.flaticon-distillatory:before { content: "\f11a"; }
+.flaticon-zoom:before { content: "\f11b"; }

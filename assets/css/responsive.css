@@ -1,0 +1,135 @@
+@media only screen and (max-width: 7000px){
+	.page-wrapper{
+		overflow: hidden;
+	}
+	
+}
+
+@media only screen and (max-width: 1400px){
+
+	.main-menu .navigation>li:nth-last-child(-n+3)>ul>li>ul {
+	    left: auto;
+	    right: 100%;
+	}
+
+	.main-menu .navigation > li:nth-last-child(-n+2) > ul {
+	    left: auto;
+	    right: 0;
+	}
+	.main-menu .navigation > li:nth-last-child(-n+2) > ul > li > ul {
+	    left: auto;
+	    right: 100%;
+	}
+}
+
+@media only screen and (max-width: 1199px){
+	.main-menu .navigation>li {
+		padding: 15px 30px;
+	}
+	.banner-section .banner-slider-nav {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 1139px){
+	.main-header .nav-outer .main-menu,
+	.sticky-header{
+		display: none !important;
+	}
+	.nav-outer .mobile-nav-toggler{
+		display: block;
+	}
+	.main-header .nav-outer {
+	    justify-content: space-between;
+	    padding-right: 30px;
+	}
+	.header-style-two .logo-box .logo img,
+	.header-style-three .logo-box .logo img,
+	.header-style-four .logo-box .logo img {
+	    width: 70%;
+	}
+	
+}
+
+@media only screen and (max-width: 991px){
+	.banner-section.dark-style .content-box h1,
+	.banner-section .content-box h1 {
+		font-size: 50px;
+		line-height: 60px;
+	}
+	.cta-section .outer-box {
+		margin-left: 0;
+	}
+	.features-section-three .auto-container {
+		padding: 0 15px;
+	}
+	.testimonial-section {
+		padding-top: 0;
+	}
+	.banner-section.style-two .content-box {
+		padding: 140px 0;
+	}
+	.feature-block-three .image {
+		width: 100%;
+	}
+	.banner-section.style-two.sp-two .content-box {
+		padding: 300px 0 140px;
+	}
+}
+
+@media only screen and (min-width: 768px){
+	.main-menu .navigation > li > ul,
+	.main-menu .navigation > li > ul > li > ul{
+		display:block !important;
+		visibility:hidden;
+		opacity:0;
+	}
+	
+}
+
+@media only screen and (max-width: 767px){	
+	.main-header .header-upper .inner-container {
+	    justify-content: center;
+	}
+	.header-upper .contact-info {
+	    display: none;
+	}
+	br {
+		display: none;
+	}
+	.header-top .contact-info {
+	    justify-content: center;
+	}
+	.header-top .inner-container {
+	    justify-content: center;
+	}
+
+}
+
+@media only screen and (max-width: 575px){
+	.sec-title h2,
+	.banner-section.dark-style .content-box h1,
+	.banner-section .content-box h1 {
+		font-size: 36px !important;
+		line-height: 45px !important;
+	}
+	.about-us-section-two .content {
+		position: relative;
+		max-width: 100%;
+		bottom: 0;
+	}
+}
+
+
+@media only screen and (max-width: 350px) {
+	
+}
+
+
+
+
+
+
+
+
+

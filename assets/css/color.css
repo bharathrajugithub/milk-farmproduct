@@ -1,0 +1,96 @@
+/* Default Color File  */
+
+
+
+
+/* Color */
+.main-menu .navigation>li.current>a,
+.main-menu .navigation>li>a:hover,
+.main-menu .navigation>li>ul>li:hover>a,
+.main-menu .navigation>li>ul>li>ul>li:hover>a,
+.sidebar-page-container .comments-area .comment-box .post-info li a,
+.news-block-three .lower-content h3 a:hover,
+.cart-table tbody tr .remove-btn:hover,
+.shop-comment-form .rating-box .rating a:hover,
+.shop-single .comments-area .comment .comment-inner .rating .fa,
+.sidebar .popular-posts .post a:hover,
+.cat-list li a:hover,
+.page-breadcrumb li a,
+.links-widget ul li a:hover,
+.shop-item h4 a:hover,
+.about-section .icon-box  .icon,
+a:hover,
+a {
+	color: #f7bd00;
+}
+
+/* Border Color */
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group textarea:focus,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.shop-form input:focus,
+.shop-form select:focus,
+.shop-form textarea:focus,
+.shop-comment-form .form-group input[type="text"]:focus,
+.shop-comment-form .form-group input[type="password"]:focus,
+.shop-comment-form .form-group input[type="tel"]:focus,
+.shop-comment-form .form-group input[type="email"]:focus,
+.shop-comment-form .form-group select:focus,
+.shop-comment-form .form-group textarea:focus,
+.sidebar .popular-tags a:hover,
+.newsletter-widget .social-links ul li a:hover,
+.products-section .owl-theme .owl-nav .owl-next:hover:before,
+.products-section .owl-theme .owl-nav .owl-prev:hover:before,
+.shop-item .theme-btn:hover,
+.border-color {
+	border-color: #f7bd00;
+}
+
+/* Background */
+
+.comment-form .submit-btn,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.news-block-three .link-box .read-more,
+.place-order .order-btn,
+.checkout-page .title-box h2:before,
+.cart-section .totals-table .proceed-btn,
+.cart-section .cart-options .cart-btn,
+.related-products .title-box h2:before,
+.shop-comment-form h2:before,
+.shop-single .product-details .prod-tabs .tab-btns .tab-btn:before,
+.shop-single .product-details .prod-tabs .tab-btns .tab-btn,
+.product-details .basic-details .cart-btn,
+.sidebar .popular-tags a:hover,
+.widget_filter-price .ui-slider .ui-slider-range,
+.recipe-block .content:before,
+.service-block-two .inner-box:before,
+.banner-section .banner-slider-button-next:hover,
+.banner-section .banner-slider-button-prev:hover,
+.mobile-menu .menu-backdrop,
+.newsletter-widget .social-links ul li a:hover,
+.about-us-section-two .content,
+.newsletter-widget button,
+.team-block-one .social-links li a:hover,
+.products-section .owl-theme .owl-nav .owl-next:hover:before,
+.products-section .owl-theme .owl-nav .owl-prev:hover:before,
+.shop-item .theme-btn:hover,
+.btn-style-one.style-two,
+.welcome-section:before,
+.btn-style-one:before,
+.search-popup .search-form fieldset input[type="submit"],
+.preloader-close,
+.theme-bg {
+    background-color: #f7bd00;
+}
+
+
+
+
+
+
+
+
+
